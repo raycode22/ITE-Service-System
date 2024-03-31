@@ -36,6 +36,9 @@
 
         <p>Create an account. <a href="#">Sign up for Google</a></p>
     </div>
+    <footer>
+        <p>©2023 QuickRef.ME</p>
+    </footer>
 </body>
 
 </html>
